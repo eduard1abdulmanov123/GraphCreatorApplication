@@ -22,7 +22,7 @@ Adapter|
 
 State|
 :-------------:|
-<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/state.jpg" width="900" height="500">|
+<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/state.jpg" width="900" height="450">|
 
 # Screenshots
 Start|
