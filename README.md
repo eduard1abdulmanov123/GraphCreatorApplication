@@ -25,3 +25,34 @@ State|
 <img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/state.jpg" width="900" height="500">|
 
 # Screenshots
+Start|
+:-------------:|
+<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/1.jpg" width="900" height="450">|
+
+Create Vertex|
+:-------------:|
+<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/2.jpg" width="900" height="450">|
+
+Moving Vertex|
+:-------------:|
+<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/3.jpg" width="900" height="450">|
+
+Create Edge|
+:-------------:|
+<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/4.jpg" width="900" height="450">|
+
+Saving graph|
+:-------------:|
+<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/5.jpg" width="900" height="450">|
+
+Loading graph|
+:-------------:|
+<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/6.jpg" width="900" height="450">|
+
+Big graph|
+:-------------:|
+<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/7.jpg" width="900" height="450">|
+
+Algorithm|
+:-------------:|
+<img src="https://github.com/eduard1abdulmanov123/GraphCreatorApplication/blob/master/screenshot/9.jpg" width="900" height="450">|
